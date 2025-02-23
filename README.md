@@ -7,7 +7,7 @@ Telegram    : https://t.me/SzProjectt
 ================================================================================================================
 -->
 <p align="center">
-  <img src=![Antares Banner](https://github.com/user-attachments/assets/7f39a1c1-b264-4a77-8c24-47d508eb4761)>
+  <img src="https://github.com/user-attachments/assets/7f39a1c1-b264-4a77-8c24-47d508eb4761">
 </p>
 
 <h1 align="center">Killing Your Thermal Limits - Universal</h1>
