@@ -14,11 +14,10 @@ Telegram    : https://t.me/SzProjectt
 
 <div align="center">
     <img src="https://img.shields.io/badge/Updated-2025/02/23-red.svg?longCache=true&style=popout-round"/>
-    <img src="https://img.shields.io/badge/Magisk-Module-green.svg?longCache=true&style=flat-round"/>
-    <h3>
-        This is <a href="https://github.com/topjohnwu/Magisk">Magisk</a> module to disabling smartphone thermal engine. 
-    </h3>
 </div>
+
+Dev: SuperrZiroo X Frln <br />
+Support: Magisk , KernelSU , KernelSU NEXT , APacth <br />
 
 ## Description
 
@@ -28,7 +27,6 @@ Use it wisely, and all risks are your own responsibility.
 ## Function
 This module functions to <b>disable</b> your smartphone's thermal engine. Please note, when you turn off thermal, your device will <b>overheat</b> and it is not recommended to charge devices that use this module while playing.
 
-## Requirement
-
-- Magisk v23.0 or higher
-
+Variants:
+- Antares ( Universal )
+- Void ( For Mediatek Helio G99 Only )
