@@ -19,3 +19,16 @@ Telegram    : https://t.me/SzProjectt
         This is <a href="https://github.com/topjohnwu/Magisk">Magisk</a> module to disabling smartphone thermal engine. 
     </h3>
 </div>
+
+## Description
+
+This is a Magisk module that is useful for disabling the thermal of your smartphone.
+Use it wisely, and all risks are your own responsibility.
+
+## Function
+This module functions to <b>disable</b> your smartphone's thermal engine. Please note, when you turn off thermal, your device will <b>overheat</b> and it is not recommended to charge devices that use this module while playing.
+
+## Requirement
+
+- Magisk v23.0 or higher
+
