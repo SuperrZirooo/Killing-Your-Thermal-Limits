@@ -8,11 +8,11 @@ DO NOT COMBINE WITH OTHER DISABLE THERMAL MODULE
 
 
 ## WARNING ⚠️
-• DWYOR (Do With Your Own Risk) – Make sure you understand the risks involved.  
-• I will not be responsible for any damage from using this module.
-• Using this will drain the battery faster
+- DWYOR (Do With Your Own Risk) – Make sure you understand the risks involved.  
+- I will not be responsible for any damage from using this module.
+- Using this will drain the battery faster
 
 
 ## Variants:
-• Antares ( Universal )
-• Void ( For Mediatek Helio G99 Only )
+- Antares ( Universal )
+- Void ( For Mediatek Helio G99 Only )
