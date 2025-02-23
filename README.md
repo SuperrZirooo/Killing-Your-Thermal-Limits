@@ -1,7 +1,7 @@
 
 This module works to disable thermal throttling on your device, increasing performance and preventing frame drops when your device is hot
 
-Dev: SuperrZiroo X Frln <br />
+Dev: SuperrZiroo <br />
 Support: Magisk , KernelSU , KernelSU NEXT , APacth <br />
 
 DO NOT COMBINE WITH OTHER DISABLE THERMAL MODULE
