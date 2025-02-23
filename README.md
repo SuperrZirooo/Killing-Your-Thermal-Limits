@@ -13,7 +13,7 @@ Telegram    : https://t.me/SzProjectt
 <h1 align="center">Killing Your Thermal Limits - Universal</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Updated-2023/11/30-blue.svg?longCache=true&style=popout-round"/>
+    <img src="https://img.shields.io/badge/Updated-2025/02/23-red.svg?longCache=true&style=popout-round"/>
     <img src="https://img.shields.io/badge/Magisk-Module-green.svg?longCache=true&style=flat-round"/>
     <h3>
         This is <a href="https://github.com/topjohnwu/Magisk">Magisk</a> module to disabling smartphone thermal engine. 
